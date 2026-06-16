@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(59, 0, 51);
+}
+
+.titulo {
+  color: #8c7edd;
+  text-align: center;
+  font-family: verdana;
+}
+
+#paragrafo {
+  font-family: verdana;
+  font-size: 20px;
+  color: #8c7edd;
+  text-align: center;
+
+}
+
+section {
+  background: linear-gradient(135deg, #383250, #261d4e, #210368);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(5px);
+}
+
+section {
+  background: linear-gradient(135deg, #383250, #261d4e, #210368);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(5px);
+}
+
+section {
+  background: linear-gradient(135deg, #383250, #261d4e, #210368);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(5px);
+}
+
+section {
+  background: linear-gradient(135deg, #383250, #261d4e, #210368);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(5px);
+}
+
+section {
+  background: linear-gradient(135deg, #383250, #261d4e, #210368);
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(5px);
+}
